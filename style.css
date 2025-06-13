@@ -39,9 +39,9 @@ a:active{
    background-image: url("orso.jpg");
    background-position: left;
    background-size: cover;
-   width: 300px;;
+   width: 30%;
    float: right;
-   height: 800px;
+   height: 40%;
    margin: auto;
    }
 .mar1{
