@@ -43,7 +43,14 @@ a:active{
    float: right;
    height: 40%;
    margin: auto;
+
    }
+   #maginright{
+    background-image: url(orso.jpg);
+    background-repeat: no-repeat;
+    background-size: 25% 100%;
+  background-position: right;
+     }
 .mar1{
     flex: 1;
     float: left;
