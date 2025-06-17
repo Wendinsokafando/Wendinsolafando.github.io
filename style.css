@@ -44,6 +44,24 @@ a:active{
    height: 40%;
    margin: auto;
 
+   .mar01{
+   background-image: url("unis_Orso.jpg");
+   background-position: left;
+   background-size: cover;
+   width: 30%;
+   float: right;
+   height: 40%;
+   margin: auto;
+   
+ .mar02{
+   background-image: url("Dieu_Orso.jpg");
+   background-position: left;
+   background-size: cover;
+   width: 30%;
+   float: right;
+   height: 40%;
+   margin: auto;
+
    }
    #maginright{
     background-image: url(orso.jpg);
@@ -61,7 +79,6 @@ a:active{
 .mar2{
    padding: 10px;
 }
-
 
        
     
