@@ -43,6 +43,7 @@ a:active{
    float: right;
    height: 40%;
    margin: auto;
+}
 
    .mar01{
    background-image: url("unis_Orso.jpg");
@@ -52,6 +53,7 @@ a:active{
    float: right;
    height: 40%;
    margin: auto;
+   }
    
  .mar02{
    background-image: url("Dieu_Orso.jpg");
@@ -79,6 +81,9 @@ a:active{
 .mar2{
    padding: 10px;
 }
+
+       
+    
 
        
     
